@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Daniel Mombeyni
 - 👀 I’m interested in anythings about programming can confuse me
 - 🌱 I’m currently reviewing anythings about python, django and learnig AWS  
 - 💞️ I’m looking to collaborate on ...
